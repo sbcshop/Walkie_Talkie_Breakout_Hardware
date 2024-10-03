@@ -1,7 +1,6 @@
 # Walkie_Talkie_Breakout_Hardware
-<!--
-<img src="https://github.com/sbcshop/Bluetooth_Breakout_Software/blob/main/images/main%20banner.jpg">
--->
+<img src="https://github.com/sbcshop/Walkie_Talkie_Breakout_Software/blob/main/images/walkie-talkie%20banner.png">
+
 Say goodbye to communication challenges in areas with poor mobile signals like hilly forests, mountains, or deserts with the DIY Walkie-Talkie. This compact, robust device ensures reliable long-distance audio transmission up to 1 km, with customizable frequencies between 400-470MHz and adjustable power settings for license-free usage. Perfect for makers, outdoor enthusiasts, and anyone needing dependable communication in remote areas, the DIY Walkie-Talkie enhances outdoor experiences and is ideal for adventures, emergencies, and fun activities like hide and seek or scavenger hunts. Stay connected no matter where your adventures take you.
 
 This github provides hardware design files of Walkie-Talkie Breakout.
